@@ -1,0 +1,3 @@
+C:/Users/UFAZ/CLionProjects/ProjectBMPfile/cmake-build-debug/CMakeFiles/ProjectBMPfile.dir
+C:/Users/UFAZ/CLionProjects/ProjectBMPfile/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/UFAZ/CLionProjects/ProjectBMPfile/cmake-build-debug/CMakeFiles/rebuild_cache.dir

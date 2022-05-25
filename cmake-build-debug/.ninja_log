@@ -1,0 +1,12 @@
+# ninja log v5
+2	388	6751813820325788	build.ninja	5c52d8f7046b7e5a
+2	110	6751811851527290	CMakeFiles/ProjectBMPfile.dir/main.c.obj	ff2ab7a8f5a7dc0e
+2	102	6751814294778768	CMakeFiles/ProjectBMPfile.dir/main.c.obj	ff2ab7a8f5a7dc0e
+1	461	6751815441086748	CMakeFiles/ProjectBMPfile.dir/main.c.obj	ff2ab7a8f5a7dc0e
+461	693	6751815443373494	ProjectBMPfile.exe	5964c909f8a72acc
+4	212	6751816215326232	CMakeFiles/ProjectBMPfile.dir/main.c.obj	ff2ab7a8f5a7dc0e
+213	327	6751816216442488	ProjectBMPfile.exe	5964c909f8a72acc
+2	120	6751817004861434	CMakeFiles/ProjectBMPfile.dir/main.c.obj	ff2ab7a8f5a7dc0e
+120	233	6751817005956847	ProjectBMPfile.exe	5964c909f8a72acc
+2	126	6751817311112679	CMakeFiles/ProjectBMPfile.dir/main.c.obj	ff2ab7a8f5a7dc0e
+126	248	6751817312300307	ProjectBMPfile.exe	5964c909f8a72acc
